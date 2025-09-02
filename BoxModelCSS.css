@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container1{
+    background-color: rgb(114, 179, 253);
+    width: 50%;
+    padding: 20px;
+    border: 2px solid rgb(14, 109, 187);
+    border-radius: 10px;
+    margin: 10px;
+}
+.container2{
+    background-color: rgb(41, 34, 85);
+    width: 50%;
+    padding: 20px;
+    border: 2px solid rgb(27, 38, 133);
+    border-radius: 10px;
+    margin: 10px;
+}
+.container3{
+    background-color: rgb(189, 186, 5);
+    width: 50%;
+    padding: 20px;
+    border: 2px solid rgb(121, 129, 3);
+    border-radius: 10px;
+    margin: 10px;
+}
+.container4{
+    background-color: rgb(240, 98, 4);
+    width: 50%;
+    padding: 20px;
+    border: 2px solid rgb(150, 76, 8);
+    border-radius: 10px;
+    margin: 10px;
+}
+.container5{
+    background-color: rgb(253, 9, 9);
+    width: 50%;
+    padding: 20px;
+    border: 2px solid rgb(114, 7, 7);
+    border-radius: 10px;
+    margin: 10px;
+}
+#ganesh{
+    width: 100%;
+}
+#krishna{
+    width: 100%;
+}
+#shiva{
+    width: 100%;
+}
+#ram{
+    width: 100%;
+}
+#hanuman{
+    width: 100%;
+}
+h2{
+    font:italic;
+    color: aliceblue;
+}
+p{
+    color: aliceblue;
+}
